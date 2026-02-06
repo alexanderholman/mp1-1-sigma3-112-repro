@@ -1,42 +1,24 @@
-<!-- Written by Alexander Holman 19/08/2019 -->
-<!--
-This file should contain a step by step guide on how to install, update and remove the software, along with any 
-prerequisites for each step should they exist. It is written to be used with most internal projects, but as per the 
-other documents feel free to adapt it to fit your needs, adding, modifying and removing as necessary.
--->
-
 # Installation
 
-## Prerequisites 
-<!-- List of a conditions that need to be met prior to installation, including os requirements, dependancies, etc -->
-<!-- EXAMPLE START -->
-* [{{dependency-name}}]({{dependency-link}})
-<!--  EXAMPLE END -->
+## Prerequisites
 
-## From scratch
-<!-- Step-by-step guide on how to install -->
-<!-- EXAMPLE START -->
-Use Aptitude to install the {{package-name}}.
-```bash
-sudo apt install package-name
-```
-<!--  EXAMPLE END -->
+- Git
+- Python 3.11+
+- Optional: LaTeX distribution for manuscript builds
 
-## Updating
-<!-- Step-by-step guide on how to update -->
-<!-- EXAMPLE START -->
-Update Aptitude, then use it to update the {{package-name}}.
-```bash
-sudo apt update
-sudo apt upgrade package-name
-```
-<!--  EXAMPLE END -->
+## Clone
 
-## Removal and how-to uninstall
-<!-- Step-by-step guide on how to remove the software -->
-<!-- EXAMPLE START -->
-Using Aptitude, purge {{package-name}} from the system.
 ```bash
-sudo apt purge package-name
+git clone git@github.com:alexanderholman/mp1-1-sigma3-112-repro.git
+cd mp1-1-sigma3-112-repro
 ```
-<!--  EXAMPLE END -->
+
+## Update
+
+```bash
+git pull --ff-only
+```
+
+## Remove
+
+Delete the cloned directory when no longer needed.
