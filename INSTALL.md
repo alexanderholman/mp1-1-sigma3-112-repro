@@ -21,10 +21,10 @@ git pull --ff-only
 
 ## MP1 tools
 
-Install the pinned `mp1-tools` version recorded in `mp1_tools.lock`:
+Install the pinned `mp1-tools` version recorded in `mlp_tools.lock`:
 
 ```bash
-python -m pip install "git+ssh://git@github.com/alexanderholman/mp1-tools.git@460e5ca3e4882db5c38466c34f887a4887b06dbf"
+python -m pip install "git+ssh://git@github.com/alexanderholman/mp1-tools.git@0908521f66d03bec28d4c8ce2b8681ec1f4ebf66"
 ```
 
 ## Remove

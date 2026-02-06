@@ -1,0 +1,5 @@
+mp1-tools-repo: git@github.com:alexanderholman/mp1-tools.git
+mp1-tools-sha: 0908521f66d03bec28d4c8ce2b8681ec1f4ebf66
+install-command: python -m pip install "git+ssh://git@github.com/alexanderholman/mp1-tools.git@0908521f66d03bec28d4c8ce2b8681ec1f4ebf66"
+updated: 2026-02-06
+owner: alexanderholman
