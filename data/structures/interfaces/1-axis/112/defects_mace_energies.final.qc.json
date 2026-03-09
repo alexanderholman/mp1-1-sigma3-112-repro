@@ -1,0 +1,80 @@
+{
+  "generated_at_utc": "2026-03-09T19:38:03Z",
+  "root": "/home/alexander/research/projects/poly_axis_interfaces/micro_papers/mp1.1-sigma3-112-reproduction/data/structures/interfaces/1-axis/112",
+  "mode": "all",
+  "subvac": {
+    "total_manifest_rows": 1600,
+    "included_rows": 1600,
+    "ok_rows": 1600,
+    "missing_energy_rows": 0,
+    "by_defect_type": {
+      "vacancy": 64,
+      "substitutional": 1536
+    },
+    "by_element_ok": {
+      "vacancy:Si": 64,
+      "substitutional:H": 64,
+      "substitutional:He": 64,
+      "substitutional:Li": 64,
+      "substitutional:Be": 64,
+      "substitutional:B": 64,
+      "substitutional:C": 64,
+      "substitutional:N": 64,
+      "substitutional:O": 64,
+      "substitutional:F": 64,
+      "substitutional:Ne": 64,
+      "substitutional:Na": 64,
+      "substitutional:Mg": 64,
+      "substitutional:Al": 64,
+      "substitutional:P": 64,
+      "substitutional:S": 64,
+      "substitutional:Cl": 64,
+      "substitutional:Ar": 64,
+      "substitutional:Ti": 64,
+      "substitutional:Fe": 64,
+      "substitutional:Cu": 64,
+      "substitutional:Ge": 64,
+      "substitutional:Ag": 64,
+      "substitutional:Sn": 64,
+      "substitutional:Au": 64
+    },
+    "by_element_missing": {}
+  },
+  "tetra": {
+    "total_manifest_rows": 6850,
+    "included_rows": 6850,
+    "ok_rows": 6850,
+    "missing_energy_rows": 0,
+    "by_defect_type": {
+      "interstitial": 6850
+    },
+    "by_element_ok": {
+      "interstitial:H": 274,
+      "interstitial:He": 274,
+      "interstitial:Li": 274,
+      "interstitial:Be": 274,
+      "interstitial:B": 274,
+      "interstitial:C": 274,
+      "interstitial:N": 274,
+      "interstitial:O": 274,
+      "interstitial:F": 274,
+      "interstitial:Ne": 274,
+      "interstitial:Na": 274,
+      "interstitial:Mg": 274,
+      "interstitial:Al": 274,
+      "interstitial:Si": 274,
+      "interstitial:P": 274,
+      "interstitial:S": 274,
+      "interstitial:Cl": 274,
+      "interstitial:Ar": 274,
+      "interstitial:Ti": 274,
+      "interstitial:Fe": 274,
+      "interstitial:Cu": 274,
+      "interstitial:Ge": 274,
+      "interstitial:Ag": 274,
+      "interstitial:Sn": 274,
+      "interstitial:Au": 274
+    },
+    "by_element_missing": {}
+  }
+}
